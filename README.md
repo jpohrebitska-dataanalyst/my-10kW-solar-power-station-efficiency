@@ -94,18 +94,30 @@ README.md       → Project overview and insights
 
 ## 📈 Insights  
 
-- Vertical installation provides **better winter output** and **reduced summer overproduction**, improving overall balance.  
-- The system shows **avg 1.6 Production/Consumption ratio** overtime and **limited grid dependency** during spring – autumn periods.  
-- Real data aligns closely with PVLib model predictions (± X %), confirming the accuracy of vertical-panel modeling.
+- The total **solar generation exceeded household consumption by 1.6×** during the analyzed period,  
+  reaching a **peak of 3.2× in August**.  
 
+- The **net energy sold** to the grid (after subtracting purchased energy) reached **2,000 kWh over 7 months**.  
+
+- The system achieved **full coverage (production ≥ consumption)** after **2.5 months** of operation.  
+
+- The **average share of exported energy** in total production was **35%**,  
+  with a **maximum of 67% in August**.  
+
+- The **average operational efficiency** of the 10 kW vertical solar plant was **24%** over the first 7 months,  
+  outperforming typical **commercial monocrystalline panels (≈ 19–22%)**.
+
+- I expect that vertical installation will provide **better winter performance** than in the summer months.
+  More on that later.
+  
 ---
 
 ## 🚀 Next Steps  
 
-- Add **real-time data integration** via Solarman API.  
-- Extend the dataset for full-year (2025–2026) comparison.  
-- Compare **vertical vs. optimal-tilt panels** efficiency under Kyiv conditions.  
-- Automate daily metrics upload and Tableau refresh.
+- **Extend dataset** to cover a full annual cycle (March 2025 – March 2026) for seasonal pattern analysis.  
+- **Automate data collection** via the Solarman Smart API to ensure real-time dashboard updates.  
+- **Add cost and revenue analysis** to estimate payback period and ROI of the system.  
+- **Compare vertical vs. optimal-tilt performance** using PVLib modeling for Kyiv latitude.  
 
 ---
 
