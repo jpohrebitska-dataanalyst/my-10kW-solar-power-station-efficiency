@@ -63,7 +63,6 @@ A Python-generated efficiency index visualized in Tableau, reflecting actual vs.
 
 ## 📂 Repository Structure  
 
-```text
 data/           → Raw & cleaned Excel datasets (production, consumption)  
 tableau/        → Packaged Tableau workbook (.twbx)  
 python/         → Scripts for efficiency and PV performance analysis  
