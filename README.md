@@ -19,7 +19,7 @@ The dashboard was built in **Tableau**, with supplementary calculations and visu
 
 ## 📸 Dashboard Preview  
 
-![SPS Dashboard](results/SPS%20Dashboard%20.png)
+![SPS Dashboard](results/SPS Dashboard.png)
 
 > Tableau dashboard illustrating production, consumption, and grid balance metrics for the Kyiv 10 kW vertical solar system.
 
