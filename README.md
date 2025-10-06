@@ -25,6 +25,14 @@ The dashboard was built in **Tableau**, with supplementary calculations and visu
 
 ---
 
+## 🌐 Live Dashboard
+
+🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/10kWSolarPanelStationefficiencyassessmentKyivUkraine2025/SPSDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+Explore real-time generation, consumption, and grid balance data for the Kyiv 10 kW vertical solar power system.
+
+---
+
 ## 🎯 Objectives  
 
 - Assess daily and monthly **generation efficiency** of vertically mounted PV panels.  
